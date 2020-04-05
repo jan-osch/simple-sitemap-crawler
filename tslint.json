@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "./tslint-config.js"
+  ],
+  "rules": {
+    "no-angle-bracket-type-assertion": false,
+    "no-console": false,
+    "no-implicit-dependencies": false
+  }
+}
