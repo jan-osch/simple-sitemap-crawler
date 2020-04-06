@@ -2,6 +2,7 @@
 
 ## Overview
 Simple crawler built with Typescript, GraphQL, Puppeteer and TypeGraphQL.
+
 User can provide a valid URL and it will crawl all links within the same domain in a BFS manner. 
 
 ## Setup
